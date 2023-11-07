@@ -1,7 +1,6 @@
-
-<div class="flex justify-between items-center h-10 bg-black-800">
+<div class="flex justify-between items-center h-10 bg-black-800 z-20">
     <div class="pl-4">
-        <button class="text-white py-2">
+        <button class="text-white py-2 ">
             Beta Version 🆕 Still in Development 🚧 Happy Halloween 🎃
         </button>
     </div>

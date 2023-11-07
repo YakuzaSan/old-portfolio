@@ -4,7 +4,6 @@
     //vercel
     import { dev } from '$app/environment';
     import { inject } from '@vercel/analytics';
-
     inject({ mode: dev ? 'development' : 'production' });
 
     let isActive: boolean = true;
@@ -71,7 +70,7 @@
 
 </head>
 
-<svg class="absolute h-full w-full " xmlns="http://www.w3.org/2000/svg">
+<svg class="absolute h-full w-full z-10" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <pattern id="karomuster" width="200" height="200" patternUnits="userSpaceOnUse">
             <path d="M 0 0 L 0 1600" fill="none" stroke="gray" stroke-width="0.3"></path>
