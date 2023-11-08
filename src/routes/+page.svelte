@@ -118,8 +118,9 @@
     </div>
 
 
-    <!-- Tools Introduction-->
-    <Tools/>
+   <div id ="skills">
+    <Tools />
+   </div>
 </main>
 
 
