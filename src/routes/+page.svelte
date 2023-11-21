@@ -30,7 +30,7 @@
 </script>
 
 <!-- on:contextmenu={(e) => e.preventDefault() } -->
-<svelte:window on:mousemove={handleMouseMove} on:mouseout={handleMouseLeave}   />
+<svelte:window on:mousemove={handleMouseMove} on:mouseout={handleMouseLeave}on:contextmenu={(e) => e.preventDefault() }   />
 {#if isActive}
     <span class="custom-cursor" style:top={cursorTop + 'px'} style:left={cursorLeft + 'px'} style:opacity={0.8}>
         {value || "🎃"}
