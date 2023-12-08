@@ -1,5 +1,4 @@
 <script lang="ts">
-    // ... your existing code
 
     function scrollToSection(sectionId: string) {
         const element = document.getElementById(sectionId);
@@ -8,7 +7,6 @@
         }
     }
 
-    // ... your existing code
 </script>
 <div class="flex justify-center h-10 bg-blend-darken z-20 ">
     <div class="text-white space-x-8">

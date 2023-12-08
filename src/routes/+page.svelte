@@ -20,17 +20,11 @@
     function handleMouseLeave(_e: MouseEvent) {
         isActive = false;
     }
-    if (typeof window !== 'undefined') {
-        window.document.onkeydown = function (e) {
-            if (e.key === 'F12') {
-                e.preventDefault();
-            }
-        };
-    }
+
 </script>
 
 <!-- on:contextmenu={(e) => e.preventDefault() } -->
-<svelte:window on:mousemove={handleMouseMove} on:mouseout={handleMouseLeave} on:contextmenu={(e) => e.preventDefault() }  />
+<svelte:window on:mousemove={handleMouseMove} on:mouseout={handleMouseLeave} }  />
 {#if isActive}
     <span class="custom-cursor" style:top={cursorTop + 'px'} style:left={cursorLeft + 'px'} style:opacity={0.8}>
         {value || "🎃"}
