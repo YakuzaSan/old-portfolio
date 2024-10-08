@@ -53,7 +53,7 @@
     <meta name="twitter:site" content="@YourTwitterHandle">
     <meta name="twitter:title" content="Yakuza Lin">
     <meta name="twitter:description" content="Yakuza is a software engineer who is passionate about building websites and games. In addition he likes playing and watch anime related things, some of which are r18 stuff :D">
-    <meta name="twitter:image" content="https://japan-box.de/cdn/shop/articles/Kopie_von_japan_box_-_2022-07-25T111138.074_1000x.png?v=1658740306">
+    <meta name="twitter:image" https://miro.medium.com/v2/resize:fit:1100/format:webp/1*o5F1rJdyaOhgvqmUhw_qXg.jpeg">
 
     <!-- Open Graph Protocol -->
     <meta property="og:type" content="website">
