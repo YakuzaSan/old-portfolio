@@ -59,7 +59,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Yakuza Lin">
     <meta property="og:description" content="Yakuza is a software engineer who is passionate about building websites and games. In addition he likes playing and watch anime related things, some of which are r18 stuff :D">
-    <meta property="og:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkenjiexplains.medium.com%2F6-interesting-facts-about-the-yakuza-you-probably-didnt-know-46cd744397b7&psig=AOvVaw18nk0lyeAsGtn-Fq5bJu2j&ust=1728456700588000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiSkpWZ_ogDFQAAAAAdAAAAABAJ">
+    <meta property="og:image" content="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*o5F1rJdyaOhgvqmUhw_qXg.jpeg">
     <meta property="og:url" content="https://yakuza-lin.vercel.app">
 
 </head>
